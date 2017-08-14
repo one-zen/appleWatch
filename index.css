@@ -38,7 +38,7 @@ body {
 	color: #ff9000;
 }
 .section2 {
-	background: #f2f2f2 url('../img/technology_hero_large_2x.jpg') no-repeat bottom;
+	background: #f2f2f2 url(../img/technology_hero_large_2x.jpg) no-repeat bottom;
 	background-size: 100%;
 }
 .section2 h1 {
@@ -54,7 +54,7 @@ body {
 	color: #08c;
 }
 .section3 {
-	background: #fff url('../img/timekeeping_hero_large_2x.jpg') no-repeat center 300px;
+	background: #fff url(../img/timekeeping_hero_large_2x.jpg) no-repeat center 300px;
 	background-size: 50%;
 }
 .section3 h1 {
