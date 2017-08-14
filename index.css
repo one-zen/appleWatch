@@ -1,0 +1,145 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font: 16px/1.8 'MicroSoft Yahei, 'verdana;
+}
+.section {
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+	background-color: #fff;
+}
+.section1 {
+	background: url('../img/hero_sunset_large_2x.jpg') no-repeat center;
+	background-size: cover;
+}
+.section1 h1 {
+	font-size: 40px;
+	font-weight: normal;
+	margin-top: 5%;
+	opacity: .8;
+	color: #fff;
+}
+.section1 p {
+	font-size: 18px;
+	width: 60%;
+	margin: 5% auto 0;
+	margin-top: 800px;
+	opacity: .6;
+	color: #fff;
+}
+.section1 a {
+	font-size: 18px;
+	display: block;
+	margin: 5% auto 0;
+	opacity: .9;
+	color: #ff9000;
+}
+.section2 {
+	background: #f2f2f2 url('../img/technology_hero_large_2x.jpg') no-repeat bottom;
+	background-size: 100%;
+}
+.section2 h1 {
+	font-size: 70px;
+	font-weight: normal;
+	margin: 20px auto;
+	color: #333;
+}
+.section2 a {
+	font-size: 18px;
+	display: block;
+	margin: 20px auto 0;
+	color: #08c;
+}
+.section3 {
+	background: #fff url('../img/timekeeping_hero_large_2x.jpg') no-repeat center 300px;
+	background-size: 50%;
+}
+.section3 h1 {
+	font-size: 40px;
+	font-weight: normal;
+	width: 60%;
+	margin: 20px auto;
+	margin-left: -1500px;
+	color: #333;
+}
+.section3 p {
+	font-size: 18px;
+	width: 60%;
+	margin: 20px auto 0;
+	margin-left: 1500px;
+	opacity: .6;
+	color: #333;
+}
+.section3 a {
+	font-size: 18px;
+	display: block;
+	margin: 20px auto 0;
+	color: #08c;
+}
+.section4 {
+	background: #fff;
+}
+.section4 h1 {
+	font-size: 40px;
+	font-weight: normal;
+	width: 60%;
+	margin: 20px auto;
+	color: #333;
+}
+.section4 .row {
+	font-size: 18px;
+	width: 95%;
+	margin-left: 20px;
+	color: #333;
+}
+.section4 .column {
+	display: inline-block;
+	float: left;
+	width: 31%;
+	margin: 10px;
+	padding-bottom: 30px;
+	background-color: #f2f2f2;
+}
+.section4 .column h4 {
+	width: 102px;
+	height: 22px;
+	margin: 20px auto;
+	background-image: url(../img/logo_collection_primary.svg);
+	background-size: 102px 22px;
+}
+.section4 .column h4.primary {
+	width: 102px;
+	height: 22px;
+	background-image: url(../img/logo_collection_primary.svg);
+	background-size: 102px 22px;
+}
+.section4 .column h4.sport {
+	width: 178px;
+	height: 22px;
+	background-image: url(../img/logo_collection_sport.svg);
+	background-size: 178px 22px;
+}
+.section4 .column h4.edition {
+	width: 178px;
+	height: 22px;
+	background-image: url(../img/logo_collection_edition.svg);
+	background-size: 190px 22px;
+}
+.section4 .column p {
+	font-size: 16px;
+	width: 90%;
+	margin: 10px auto;
+}
+.section4 .column a {
+	font-size: 16px;
+	display: block;
+	margin: 10px auto 0;
+	color: #08c;
+}
+.section4 .column img {
+	height: 300px;
+	margin-top: 30px;
+}
